@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Mac Thartcher's Blog</title>
+    <link>https://Mac-thartcher.github.io/blog/</link>
+    <description>Empathy meets innovation — health, tech, and life insights from Princess Mac.</description>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 27 Oct 2025 18:00:00 GMT</lastBuildDate>
+
+    <item>
+      <title>Fibroid Awareness: Why I Started This Blog</title>
+      <link>https://Mac-thartcher.github.io/blog/2025-10-27-fibroid-awareness.html</link>
+      <description>Fibroids affect millions of women. This post shares my journey and why I launched this blog.</description>
+      <pubDate>Mon, 27 Oct 2025 18:00:00 GMT</pubDate>
+      <guid>https://Mac-thartcher.github.io/blog/2025-10-27-fibroid-awareness.html</guid>
+    </item>
+
+    <!-- Add more <item> blocks for future posts -->
+
+  </channel>
+</rss>
